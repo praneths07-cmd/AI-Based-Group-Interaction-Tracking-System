@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Logs
+logs/
+
+# VS Code
+.vscode/
+
+# Models
+*.pt
+*.pth
+
+# SAM2 checkpoints
+checkpoints/
+
+# Cache
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db
